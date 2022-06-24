@@ -1,0 +1,371 @@
+[
+    {
+        "tc": [
+            "lego_rs_cu_full_ot_test",
+            "lego_mix_snp_atomic_ptl_ot_test",
+            "lego_ro_wu_ptl_ot_test"
+        ],
+        "rtl_mode_sel": [
+            "1"
+        ],
+        "cfg": [
+            "cfg_addr_x1"
+        ],
+        "plus_pattern": [
+            "0",
+            "4"
+        ],
+        "bway_env_type_sel": [
+            "0",
+            "1"
+        ],
+        "internal_share": [
+            "0"
+        ],
+        "scen_num": [
+            "3"
+        ],
+        "addr_num": [
+            "nan"
+        ],
+        "rn_rs_disturb": [
+            "1"
+        ],
+        "rn_ro_disturb": [
+            "1"
+        ],
+        "copyback_disturb": [
+            "0",
+            "1"
+        ],
+        "writeshared_disturb": [
+            "1"
+        ],
+        "wu_disturb": [
+            "0",
+            "1"
+        ],
+        "run_times": [
+            "3"
+        ],
+        "outstanding": [
+            "10"
+        ],
+        "ctrl_excl_eventen": [
+            "nan"
+        ],
+        "m_ncexcl_eventen": [
+            "nan"
+        ],
+        "zva_test_en": [
+            "nan"
+        ],
+        "ddr_bandwidth": [
+            "nan"
+        ],
+        "hhutl_bandwidth": [
+            "nan"
+        ],
+        "hutl_bandwidth": [
+            "nan"
+        ],
+        "lutl_bandwidth": [
+            "nan"
+        ],
+        "llutl_bandwidth": [
+            "nan"
+        ],
+        "ta_inter_enable_num": [
+            "2"
+        ],
+        "tb_inter_enable_num": [
+            "2"
+        ],
+        "tc_inter_enable_num": [
+            "2"
+        ],
+        "ta_exter_enable_num": [
+            "h001"
+        ],
+        "tb_exter_enable_num": [
+            "h013"
+        ],
+        "tc_exter_enable_num": [
+            "h113"
+        ],
+        "smmu_enable_num": [
+            "0"
+        ],
+        "iocache_ enbable_num": [
+            "0"
+        ],
+        "ta_inter_dis_enable_ num": [
+            "1"
+        ],
+        "tb_inter_dis_enable_ num": [
+            "2"
+        ],
+        "tc_inter_dis_enable_ num": [
+            "2"
+        ],
+        "ta_exter_dis_enable_ num": [
+            "0"
+        ],
+        "tb_exter_dis_enable_ num": [
+            "0"
+        ],
+        "tc_exter_dis_enable_ num": [
+            "0"
+        ],
+        "smmu_dis_enable_num": [
+            "0"
+        ],
+        "iocache_dis_enable_num": [
+            "0"
+        ]
+    },
+    {
+        "tc": [
+            "lego_rns_wns_excl_ ptl_ot_test"
+        ],
+        "rtl_mode_sel": [
+            "1"
+        ],
+        "cfg": [
+            "cfg_addr_64_x2"
+        ],
+        "plus_pattern": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "bway_env_type_sel": [
+            "0",
+            "1",
+            "2"
+        ],
+        "internal_share": [
+            "0",
+            "1"
+        ],
+        "scen_num": [
+            "3"
+        ],
+        "addr_num": [
+            "1"
+        ],
+        "rn_rs_disturb": [
+            "nan"
+        ],
+        "rn_ro_disturb": [
+            "nan"
+        ],
+        "copyback_disturb": [
+            "nan"
+        ],
+        "writeshared_disturb": [
+            "nan"
+        ],
+        "wu_disturb": [
+            "nan"
+        ],
+        "run_times": [
+            "nan"
+        ],
+        "outstanding": [
+            "1"
+        ],
+        "ctrl_excl_eventen": [
+            "1"
+        ],
+        "m_ncexcl_eventen": [
+            "0"
+        ],
+        "zva_test_en": [
+            "0"
+        ],
+        "ddr_bandwidth": [
+            "0"
+        ],
+        "hhutl_bandwidth": [
+            "0"
+        ],
+        "hutl_bandwidth": [
+            "0"
+        ],
+        "lutl_bandwidth": [
+            "0"
+        ],
+        "llutl_bandwidth": [
+            "0"
+        ],
+        "ta_inter_enable_num": [
+            "2"
+        ],
+        "tb_inter_enable_num": [
+            "2"
+        ],
+        "tc_inter_enable_num": [
+            "2"
+        ],
+        "ta_exter_enable_num": [
+            "h111"
+        ],
+        "tb_exter_enable_num": [
+            "h113"
+        ],
+        "tc_exter_enable_num": [
+            "h113"
+        ],
+        "smmu_enable_num": [
+            "0"
+        ],
+        "iocache_ enbable_num": [
+            "0"
+        ],
+        "ta_inter_dis_enable_ num": [
+            "nan"
+        ],
+        "tb_inter_dis_enable_ num": [
+            "nan"
+        ],
+        "tc_inter_dis_enable_ num": [
+            "nan"
+        ],
+        "ta_exter_dis_enable_ num": [
+            "nan"
+        ],
+        "tb_exter_dis_enable_ num": [
+            "nan"
+        ],
+        "tc_exter_dis_enable_ num": [
+            "nan"
+        ],
+        "smmu_dis_enable_num": [
+            "nan"
+        ],
+        "iocache_dis_enable_num": [
+            "nan"
+        ]
+    },
+    {
+        "tc": [
+            "nan"
+        ],
+        "rtl_mode_sel": [
+            "nan"
+        ],
+        "cfg": [
+            "nan"
+        ],
+        "plus_pattern": [
+            "nan"
+        ],
+        "bway_env_type_sel": [
+            "nan"
+        ],
+        "internal_share": [
+            "nan"
+        ],
+        "scen_num": [
+            "nan"
+        ],
+        "addr_num": [
+            "nan"
+        ],
+        "rn_rs_disturb": [
+            "nan"
+        ],
+        "rn_ro_disturb": [
+            "nan"
+        ],
+        "copyback_disturb": [
+            "nan"
+        ],
+        "writeshared_disturb": [
+            "nan"
+        ],
+        "wu_disturb": [
+            "nan"
+        ],
+        "run_times": [
+            "nan"
+        ],
+        "outstanding": [
+            "nan"
+        ],
+        "ctrl_excl_eventen": [
+            "nan"
+        ],
+        "m_ncexcl_eventen": [
+            "nan"
+        ],
+        "zva_test_en": [
+            "nan"
+        ],
+        "ddr_bandwidth": [
+            "nan"
+        ],
+        "hhutl_bandwidth": [
+            "nan"
+        ],
+        "hutl_bandwidth": [
+            "nan"
+        ],
+        "lutl_bandwidth": [
+            "nan"
+        ],
+        "llutl_bandwidth": [
+            "nan"
+        ],
+        "ta_inter_enable_num": [
+            "nan"
+        ],
+        "tb_inter_enable_num": [
+            "nan"
+        ],
+        "tc_inter_enable_num": [
+            "nan"
+        ],
+        "ta_exter_enable_num": [
+            "nan"
+        ],
+        "tb_exter_enable_num": [
+            "nan"
+        ],
+        "tc_exter_enable_num": [
+            "nan"
+        ],
+        "smmu_enable_num": [
+            "nan"
+        ],
+        "iocache_ enbable_num": [
+            "nan"
+        ],
+        "ta_inter_dis_enable_ num": [
+            "nan"
+        ],
+        "tb_inter_dis_enable_ num": [
+            "nan"
+        ],
+        "tc_inter_dis_enable_ num": [
+            "nan"
+        ],
+        "ta_exter_dis_enable_ num": [
+            "nan"
+        ],
+        "tb_exter_dis_enable_ num": [
+            "nan"
+        ],
+        "tc_exter_dis_enable_ num": [
+            "nan"
+        ],
+        "smmu_dis_enable_num": [
+            "nan"
+        ],
+        "iocache_dis_enable_num": [
+            "nan"
+        ]
+    }
+]
